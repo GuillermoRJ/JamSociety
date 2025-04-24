@@ -1,0 +1,27 @@
+.logo {
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+  }
+  .navbar-brand {
+    margin: 0px;
+  }
+  
+  .navbar-expand-lg {
+    background-color:#e3bb82;
+    font-size: 25px;
+  }
+  
+  #carouselExampleCaptions{
+    align-self: center;
+  }
+  
+  .nav-item{
+    margin: 0 15px 0 15px ;
+  }
+  
+  
+  
+  .c-item {
+    height: 620px;
+  }
